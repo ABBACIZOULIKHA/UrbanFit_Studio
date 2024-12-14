@@ -352,9 +352,8 @@ progress {
 }
 
 .img-fluid {
-  max-width: 80%;
-  /* width: 60%; */
-  height: auto;
+  width: 30%;
+  height: 400px;
 }
 
 .img-thumbnail {
@@ -10715,11 +10714,11 @@ p {
 .intro {
   position: relative;
 }
-@media (min-width: 992px) {
+@media (min-width: 792px) {
   .intro .intro-img {
-    width: 65%;
-    height: 820px;
-    float: right;
+    width: 55%;
+    height: 420px;
+    float: right ;
   }
   .intro .intro-text {
     left: 0;
